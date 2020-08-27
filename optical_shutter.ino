@@ -1,5 +1,6 @@
 // For simple optical shutter in Greytak Laboratory
 // Servo motor movement direction driven by push buttons, LEDs indicate which button was pressed
+// Arduino Nano board used in this build
 // Mathew L. Kelley
 
 #include<Servo.h>
